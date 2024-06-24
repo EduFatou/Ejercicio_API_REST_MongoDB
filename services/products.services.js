@@ -98,16 +98,18 @@ module.exports = {
 //     // deleteProduct
 // };
 
-// // createProduct('sandía', 3, 'manzana rica', 'imagenmanzana.jpg', 'Zara');
+//createProduct('sandía', 3, 'manzana rica', 'imagenmanzana.jpg', 'Zara');
 
-// // listProducts();
+//listProducts();
 
-// // updateProduct({title: "manzana"} ,{
-// //         title: "manzana",
-// //         price: 12,
-// //         description: "reineta",
-// //         image: "manzana.jpg",
-// //         isActive: false
-// //     });
+// updateProduct({title: "sandía"} ,{
+//         title: "manzana",
+//         price: 12,
+//         description: "reineta",
+//         image: "manzana.jpg",
+//         isActive: false
+//     });
 
 // // deleteProduct('pera');
+
+//createProduct('panchita 1', 20, 'panchita 1', 'imagenpanchita1.jpg', 'Emilio y sus Panchitas');

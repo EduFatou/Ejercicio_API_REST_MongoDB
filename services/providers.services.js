@@ -159,7 +159,7 @@ module.exports = {
 // };
 
 
-// createProvider('Zara', 'Z40236882', 'Calle de Prim 49', 'https://www.zara.com', 'true');
+//createProvider('Zara', 'Z40236882', 'Calle de Prim 49', 'https://www.zara.com', 'true');
 
 // {
 //     "company_name": "Alcampo",
